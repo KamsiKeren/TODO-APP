@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    justify-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    color: rgb(28, 26, 26);
+    text-align: center;
+    padding-top: 100px;
+    background-image: linear-gradient(yellow, rgb(201, 29, 58), green)
+
+}
+/* #tasks-container {
+    margin-top: 20px;
+}
+.add-item {
+    margin-bottom: 5px;
+} */
